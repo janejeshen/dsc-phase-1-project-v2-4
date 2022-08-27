@@ -18,4 +18,3 @@ leading.
 - Seaborn
 - Matplotlib Library
 - SQLite
-## Conclusion 
